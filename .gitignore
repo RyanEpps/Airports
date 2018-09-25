@@ -2,3 +2,5 @@
 *.mdat
 airports.json
 countries.json
+.DS_Store
+Germany/ETHR/.log
